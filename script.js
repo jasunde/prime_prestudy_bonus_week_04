@@ -1,4 +1,5 @@
 function splinter(x, y) {
   var z = x * y;
-  return [x, y, z];
+  var arr = [x, y, z];
+  return arr;
 }
