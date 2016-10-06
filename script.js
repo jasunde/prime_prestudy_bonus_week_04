@@ -4,4 +4,4 @@ function splinter(x, y) {
   return arr;
 }
 
-console.log(splinter(1, 2);
+console.log(splinter(1, 2));
